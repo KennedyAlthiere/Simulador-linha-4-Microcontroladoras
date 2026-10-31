@@ -66,9 +66,9 @@ Este sensor possui precisão de mais ou menos 3mm em sua faixa de medição idea
 
 <p align="center">
 Figura - Diagrama do circuito<br/>
-  <img src="https://github.com/Anemaygi/SMAC/blob/master/src/circuitoa.png" width="400" /><br/>
+  <img src="circuito.jpeg" width="400" /><br/>
 </p>
-Informações importantes sobre o circuito, onde colocá-lo, entre outros.
+
 <br/>
 
 <br/>
