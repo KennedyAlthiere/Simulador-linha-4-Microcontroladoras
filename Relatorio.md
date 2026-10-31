@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Logo_.jpeg" width="300" /><br/>
+  <img src="Logo.jpeg" width="300" /><br/>
 Tico Tech <br/>
 </p>
 
