@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://media.elektor.com/media/catalog/product/cache/9cc822bfc6a57f9729d464b8b5e0e0df/j/o/joy-it-nodemcu-esp32-development-board_front.png" width="300" /><br/>
-Nome do projeto <br/>
+  <img src="Logo_.jpeg" width="300" /><br/>
+Tico Tech <br/>
 </p>
 
 <br/>
