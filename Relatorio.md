@@ -73,7 +73,7 @@ Figura - Diagrama do circuito<br/>
 
 ## :electric_plug: Funcionamento do sistema
 
-
+[Assistir ao vídeo](./video.mp4)
 
 - O código utiliza um ESP32 para controlar um sensor ultrassônico, um buzzer e 11 LEDs. Inicialmente, são importadas as bibliotecas necessárias e configurados os pinos e parâmetros de funcionamento dos componentes. A biblioteca asyncio permite executar diferentes tarefas simultaneamente, sem que uma precise esperar a outra terminar.
 
